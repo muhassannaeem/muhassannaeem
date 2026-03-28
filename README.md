@@ -54,15 +54,14 @@ An intelligent system that processes PDF documents and turns them into useful le
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=muhassananeem\&show_icons=true\&theme=radical)
+![Muhammad Hassan Naeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhassananeem&show_icons=true&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/home?originalSubdomain=pk)
-* 📧 Email: [muhassannaeem](mailto:your@email.com)
-
----
+- 💼 LinkedIn: [Muhammad Hassan Naeem](https://www.linkedin.com/in/muhammad-hassan-naeem/)  
+- 📧 Email: [muhassannaeem@gmail.com](mailto:muhassannaeem@gmail.com)  
+- 🌐 Portfolio: Coming Soon!  
 
 ⭐ *Focused on building real-world impactful software.*
