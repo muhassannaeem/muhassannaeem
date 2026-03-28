@@ -53,8 +53,9 @@ An intelligent system that processes PDF documents and turns them into useful le
 ---
 
 ## 📊 GitHub Stats
-
-![Muhammad Hassan Naeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhassannaeem&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=muhassannaeem&show_icons=true&theme=radical&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=muhassannaeem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhassannaeem&theme=dark&layout=compact&include_all_commits=true&count_private=true)---
 
 ---
 
